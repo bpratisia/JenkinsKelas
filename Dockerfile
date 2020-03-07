@@ -1,5 +1,5 @@
 FROM python:2
 
-ADD tugasBryan.py /
+ADD tugasbryan.py /
 
-CMD [ "python", "./tugasBryan.py" ]
+CMD [ "python", "./tugasbryan.py" ]
