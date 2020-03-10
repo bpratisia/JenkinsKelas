@@ -1,1 +1,1 @@
-print "python jalan"
+print "TUGAS BRYAN PRATISIA Q07206 jalan"
